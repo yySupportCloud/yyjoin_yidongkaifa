@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * 概述
    * [概述](gai_shu.md)
-* [快速入门]()
+* 快速入门
    * [快速入门概述](kuai_su_ru_men_gai_shu.md)
    * [使用应用模板](chapter2_section1.md)
    * [应用创建界面](chapter2_section2.md)
