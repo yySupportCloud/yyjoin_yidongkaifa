@@ -1,6 +1,6 @@
 # Summary
 
-* Introduction
+* [Introduction](README.md)
 * 概述
    * [概述](gai_shu.md)
 * 快速入门
