@@ -4,8 +4,8 @@
 *	业务模块库，可以扩展，定制；
 *	Moli 帮你达到“极致”( 技术、分发、运维、运营)；
 
-![](yidongkaifa-32.png)
+![](images/yidongkaifa-32.png)
 
 移动智能云服务平台架构如下图。
 
-![](yidongkaifa-33.png)
+![](images/yidongkaifa-33.png)
